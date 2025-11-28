@@ -1,8 +1,19 @@
 华为
+Huawei
 鸿蒙
 HarmonyOS
 任正非
-@2
+@3
+
+小米
+xiaomi
+雷军
+卢伟冰
+玄戒
+xring
+!粮食
+!美食
+@3
 
 比亚迪
 问界
@@ -11,16 +22,24 @@ HarmonyOS
 尊界
 尚界
 新势力
+蔚来
+小鹏
+理想汽车
+李想
 @5
 
 大疆
 DJI
 @2
 
+宇树科技
+王兴兴
 智元
 灵犀
 稚晖君
 彭志辉
+机器人
+@3
 
 京东
 刘强东
@@ -35,10 +54,12 @@ bytedance
 
 特斯拉
 马斯克
+@4
 
 英伟达
 NVIDIA
 黄仁勋
+@3
 
 AMD
 
@@ -46,6 +67,7 @@ AMD
 google
 gemini
 deepmind
+@4
 
 chatgpt
 openai
@@ -58,6 +80,7 @@ iphone
 ipad
 mac
 ios
+@4
 
 ai
 !gai
@@ -65,8 +88,7 @@ ai
 @3
 
 自动驾驶
-
-机器人
+@4
 
 芯片
 光刻机
