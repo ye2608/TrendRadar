@@ -143,8 +143,6 @@ platforms:
     name: "IT之家"
   - id: "juejin"
     name: "掘金"
-  - id: "nowcoder"
-    name: "牛客网"
   - id: "pcbeta"
     name: "远景论坛"
   - id: "sspai"
